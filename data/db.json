@@ -1,0 +1,76 @@
+{
+  "notes": [
+    {
+      "title": "To go Shwedagon Pagoda",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit voluptatibus? Expedita, placeat.Mollitia aut recusandae voluptatibus? Expedita, placeat.Mollitia aut recusandae ",
+      "category": "money",
+      "id": 1
+    },
+    {
+      "title": "Order a pizza",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit voluptatem quasi doloribus consequatur voluptatibus? Expedita, placeat.Mollitia aut recusandae ",
+      "category": "reminders",
+      "id": 2
+    },
+    {
+      "title": "Make a new web design",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? ",
+      "category": "work",
+      "id": 3
+    },
+    {
+      "title": "To buy laptop",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit voluptatem quasi doloribus consequatur voluptatibus? Expedita, placeat.Mollitia aut recusandae ",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "Pick up some shopping",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit voluptatem quasi doloribus consequatur voluptatibus? Expedita, placeat.Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "To go Gym",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit t",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "Complete my note training",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit voluptatem quasi doloribus consequatur voluptatibus? Expedita, placeat.Mollitia aut recusandae ",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "Buy a bicycle",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae  ",
+      "category": "todos",
+      "id": 8
+    },
+    {
+      "title": "To go mysister's home",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit.",
+      "category": "reminders",
+      "id": 9
+    },
+    {
+      "title": "Buy a new shirt",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recus.",
+      "category": "money",
+      "id": 10
+    },
+    {
+      "title": "Study for Github",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit voluptatem quasi doloribus consequatur voluptatibus? Expedita, placeat.Mollitia aut recusandae ",
+      "category": "todos",
+      "id": 11
+    },
+    {
+      "title": "Study react ",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, magni quos? Mollitia aut recusandae iste accusamus repudiandae. Ducimus quaerat facilis labore fugit odit.",
+      "category": "reminders",
+      "id": 12
+    }
+  ]
+}
