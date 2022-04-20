@@ -11,7 +11,7 @@ const theme = createTheme({
     primary: {
       main: "#fefefe"
     },
-    secondary: purple
+    secondary: purple 
   },
   typography: {
     fontFamily: 'Quicksand',
