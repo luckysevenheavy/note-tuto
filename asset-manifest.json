@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/note-tuto/static/css/main.50198ce0.css",
+    "main.js": "/note-tuto/static/js/main.71a1427a.js",
+    "static/js/787.e85d6337.chunk.js": "/note-tuto/static/js/787.e85d6337.chunk.js",
+    "index.html": "/note-tuto/index.html",
+    "main.50198ce0.css.map": "/note-tuto/static/css/main.50198ce0.css.map",
+    "main.71a1427a.js.map": "/note-tuto/static/js/main.71a1427a.js.map",
+    "787.e85d6337.chunk.js.map": "/note-tuto/static/js/787.e85d6337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50198ce0.css",
+    "static/js/main.71a1427a.js"
+  ]
+}
